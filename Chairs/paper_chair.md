@@ -229,9 +229,11 @@ This is the most critical phase for the paper chair(s), since time is limited an
 
 #### Meta-reviewers
 
-NIME has been using meta-reviewers since 2014. This has helped to improve the general quality of reviews. Meta-reviewers have typically been responsible for 5-15 papers each. Obviously, the quality of the work goes up with fewer papers, but having more meta-reviewers also makes the whole process more vulnerable if they do not deliver. It is important to set up a reliable group of meta-reviewers, and they should ideally know the conference fairly well.
+NIME has been using meta-reviewers since 2014. This has helped to improve the general quality of reviews. Meta-reviewers have typically been responsible for 5-15 papers each. Obviously, the quality of the work goes up with fewer papers, but having more meta-reviewers also makes the whole process more vulnerable if they do not deliver. It is important to set up a reliable group of meta-reviewers, and they should ideally know the conference fairly well. It is also important to make sure that meta-reviewers are sufficiently responsive in order not fall behind schedule.
 
 Meta-reviewers read the individual reviews and write up a meta-review for each paper. The meta-reviewer should base his/her argument on the individual reviews, but could/should also read the paper in question to make up an opinion. This is particularly important when the individual reviewers disagree.
+
+In order to mitigate cases where two submissions by the same team of authors might overlap, the same meta-reviewer can be assigned to both. They may also check for novelty compared to previous work.
 
 The meta-reviewers should be encouraged to make a clear suggestion as for whether to accept or not (since many individual reviewers tend to gravitate towards borderline). Decisions on acceptance/rejection should always be based on a *qualitative* judgment. The scores are useful to help in sorting papers, but should not be used as the basis for the final decision.
 
