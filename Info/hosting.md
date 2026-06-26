@@ -14,7 +14,6 @@ Abbreviated, the conference is called NIME followed by the year of the conferenc
 
 NIME has traditionally been organised in the end of May or beginning of June. There have been a few exceptions to this rule, but it is preferable to stay with the May/June timing for consistency and for avoiding crashes with other conferences.
 
-
 ### Location of the conference
 
 NIME is proud of being a truly international conference. To ensure this, it moves between continents every year. Up until now it has been moving between Europe, North America, and the rest of the world every third year. This pattern is not entirely fixed, but it is highly encouraged to avoid staying in one continent, or just moving between Europe and North America.
@@ -27,7 +26,6 @@ There is not a particular requirement for the type of host institution. NIME is 
 
 The official language of the conference is English.
 
-
 ### Economy of the conference
 
 NIME is not a formal organization, and has no means on its own. It can be seen as a network of individually organized conferences.
@@ -35,24 +33,19 @@ NIME is not a formal organization, and has no means on its own. It can be seen a
 Each Host Organization is economically responsible for their own conference. It may freely solicit any and all public and private funding organizations, institutions, sponsors and partners in any country. It also has the right to set registration fees and costs as needed to cover production of event and publication of
 proceedings.
 
-
 ## NIME's DNA
 
 - NIME is a friendly conference. It is important that it is equally welcoming to people from both academic and artistic backgrounds, and to both newcomers and longtimers.
 - NIME should feel like a "small" conference, even though it is quite large. One way of achieving this is the single-track paper sessions, which ensures that everyone experiences the same content. Presentations are short (10-15 minutes) and of high quality.
-- Poster and demo sessions are very important at NIME. This is where you can try things yourself. Paper presenters are encouraged to also set up a demo (if relevant).  
-- The artistic program is equally important as the scientific, and should be peer reviewed and presented on similar terms.
-
-
+- Poster and demo sessions are very important at NIME. This is where you can try things yourself. Oral paper presenters are encouraged to also set up a demo if relevant.  
+- The artistic program is **equally important** as the scientific, and should be peer reviewed and presented on similar terms.
 
 ## Conference program
 
 The conference program is based on the results of an international Call for Participation, with the following categories:
 
-- Papers (oral and poster)
-- Demos
-- Performance
-- Installation
+- Papers (presented via oral and poster)
+- Music (including live performances, installations, and remote performances)
 - Workshops
 
 There should be assigned on chair for each category, who is responsible for organizing the peer review of their track.
@@ -61,7 +54,6 @@ In addition to the peer reviewed conference program, the Host Organization is en
 
 It is particuarly relevant to use the opportunity to invite people that would not otherwise come to NIME, such as to broaden the perspectives of the community. This also includes incorporating aspects of local culture, history and traditions (as they pertain to
 music, arts and technology) to make every Conference a unique and rewarding socio-cultural experience.
-
 
 ## General Schedule
 
@@ -99,10 +91,17 @@ The typical structure of a NIME conference is three days of core conference acti
 09:00-17:00: Workshops    
 20:00-00:00: Performances / Open mic
 
-
-
 ## Things to consider
 
+### Website
+
+A separate website for individual NIMEs is required (i.e., not an institutional subdomain). The website must be fully archived on NIME.org after the conference.
+
+NIME hosts are encouraged to use [a template (academic-org-theme)](https://github.com/smcclab/academic-org-theme) using the Jekyll static web framework and to follow the example structure of the [NIME 2025 and 2026](https://github.com/NIME-conference/nime2025-website) sites. The template provides mechanisms to automatically generate individual pages for each session, paper, artistic work, etc, which can be updated via a google sheets spreadsheet.
+
+A static website is preferable to web frameworks such as Wordpress which cannot be easily archived.
+
+The template is fully configurable and can be extensively styled by hosts if they wish.
 
 ### Diversity
 
@@ -119,7 +118,7 @@ It is particularly important to have measures in place to secure that students, 
 
 This could be based on reduced registration fees, scholarships, volunteer programmes, or a combination of these.
 
-The conference fees should not change dramatically from one year to another.
+The conference fees should not change dramatically from one year to another but should be adjusted to ensure viability and a healthy budget. The fee levels of previous conferences is available from the NIME board.
 
 ### Banquet
 
