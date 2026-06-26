@@ -18,9 +18,10 @@ This is coarse overview of the timeline of the organization of the annual NIME c
 * Just prior to conference: Upload proceedings
 * May/June: Organize conference
 * July/August: Finalize media documentation
+* September: Archive website on nime.org
 * December: Transfer of knowledge to new hosts
 
-## Example Timeline from NIME 2026
+## Complete Submission and Review Timeline from NIME 2026
 
 - 4 December 2025: Submission CMT Site opens
 - 5 February 2026: Papers - Titles, abstracts and author lists due
@@ -35,3 +36,4 @@ This is coarse overview of the timeline of the organization of the annual NIME c
 - 23 June 2026: NIME Workshops
 - 23 June 2026: NIME Paper and Music Proceedings published on NIME.org
 - 24-26 June 2026: NIME Conference
+- Future: archive media and website
