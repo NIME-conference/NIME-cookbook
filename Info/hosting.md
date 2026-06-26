@@ -12,7 +12,7 @@ Abbreviated, the conference is called NIME followed by the year of the conferenc
 
 ### Time of the conference
 
-NIME has traditionally been organised in the end of May or beginning of June. There have been a few exceptions to this rule, but it is preferable to stay with the May/June timing for consistency and for avoiding crashes with other conferences.
+NIME has traditionally been organised in May or June. There have been a few exceptions to this rule, but it is preferable to stay with the May/June timing for consistency and for avoiding crashes with other conferences.
 
 ### Location of the conference
 
