@@ -122,26 +122,30 @@ This is the paper award category for NIME2025:
 
 ### Set up the Conference Management System (October)
 
-NIME presently uses the [Microsoft Conference Management Toolkit](http://cmt3.research.microsoft.com/) (CMT) which is available for free and is used by ISMIR, WAV, and many other conferences. Previously to CMT, NIME used to use Easyconf and Precision and another option may be EasyChair. All conference management systems have a learning curve and chairs are advised to read CMT's help documents regularly when performing different tasks as well as to discuss the experiences with previous chairs.
+NIME uses the [Microsoft Conference Management Toolkit](http://cmt3.research.microsoft.com/) (CMT) which is available for free and is used by ISMIR, WAV, and many other conferences. Previously to CMT, NIME used to use Easyconf and Precision. All conference management systems have a learning curve and chairs are advised to read CMT's help documents regularly when performing different tasks as well as to discuss the experiences with previous chairs.
 
-There are a few important settings on CMT that need to be set up and reviewed before CMT opens for paper submissions. When any user (author, reviewer, meta) creates their profiles or logins to the conference submission form for the first time, CMT can request for their individual domain conflicts as well as their subject areas. This information becomes really important in the review process when matching reviewers with papers that do not have any conflicts. Another one is permission and visibility rules for the reviewers and meta-reviewers. We recommend enabling the discussion between meta-reviewers and reviewers which can be helpful in aligning reviews that are significantly different from each other. 
+There are a few important settings on CMT that need to be set up and reviewed before CMT opens for paper submissions:
 
-In addition to CMT, it is worth having documents with live-editing shared between paper chairs, which is something (live-editing) that CMT does not enable: 
+- **Conflicts:** When any user (author, reviewer, meta) creates their profiles or logins to the conference submission form for the first time, CMT can request for their individual domain (e.g., institutional email address) conflicts as well as their subject areas.
+- **Permission and visibility** rules for the reviewers and meta-reviewers. NIME uses the discussion feature between meta-reviewers and reviewers to align reviews and reach consensus where possible.
+- **Tracks:** tracks are high-maintenance in CMT as each track has separate reviewers and chairs with little visibility between. From a large number of tracks we have moved to a simpler model wither _one_ paper track and _one_ music track for all lengths/type of submission to increase oversight for track and general chairs and reduce risk of mistakes.
+
+In addition to CMT, it is worth having documents with live-editing shared between paper chairs, which is something (live-editing) that CMT does not enable:
 
 - A **shared text document to prepare email templates** (which are not shared between chairs on CMT, i.e. one only sees their own templates) or potential individual responses to reviewers / meta / authors.
 - A **shared spreadsheet in which the list of submissions can be imported**, and more easily sorted, filtered and commented than on CMT.  This can be done early on, as updates to scores can be reimported easily. Overall scores combining meta and reviewers scores can be computed there, for example to help when discussing borderline submissions and awards. This also helps when deciding on conditional acceptance, paper length, presentation formats, since these can be changed separately (i.e. as separate columns) before being merged in one “status” (e.g. “Accept As 6000 Words Poster”) on CMT. The shared spreadsheet can finally be used to keep track of the attendance (which helps to decide on presentation format) and compute statistics on submissions.
 
-
 ### Recruit reviewers (December)
 
-- Master list of NIME reviewers: The list of reviewers are passed on from one year to another. You should add new people as you see fit, and the previous chair(s) should also remove reviewers that did not work well. It is common to add some local people each year, and some of these should probably be removed if they are not regular NIMErs. The [handle](https://github.com/NIME-conference/NIME-bibliography/tree/master/reviewers.) to past years' NIME reviewers.
-  - **Get the reviewer expertise areas and domain conflicts as early as possible (Do not hesitate to send an email through CMT to all reviewers and meta-reviewers)**.
+- Master list of NIME reviewers: The list of reviewers are passed on from one year to another. You should add new people as you see fit, and the previous chair(s) should also remove reviewers that did not work well. It is common to add some local people each year, and some of these should probably be removed if they are not regular NIMErs. The [handle](https://github.com/NIME-conference/NIME-bibliography/blob/master/reviewers/reviewers_all_years.md) to past years' NIME reviewers.
+
+- **Get the reviewer expertise areas and domain conflicts as early as possible (Do not hesitate to send an email through CMT to all reviewers and meta-reviewers)**.
 
 - Recruiting reviewers should start *before the submission deadline*. Otherwise, there is not much time to find reviewers after the final submission deadline because the next review phase should technically start right after the final deadline and all papers should be reviewed for desk rejection before the reviewers are allocated. 
 
-  - Feel free to make use of the peer review process by inviting authors to review other submissions. It is better to provide a good mix of peer reviews and more experienced reviewers. 
+- Feel free to make use of the peer review process by inviting authors to review other submissions. It is better to provide a good mix of peer reviews and more experienced reviewers. 
 
-  - We recommend publishing reviewer registration forms and how to guide for reviewers and meta-reviewers (or links to the guides) on the conference website before the submission deadline.
+- We recommend publishing reviewer registration forms and how to guide for reviewers and meta-reviewers (or links to the guides) on the conference website before the submission deadline.
 
 - Gender parity (and also diversity): It should be addressed at all parts of the organization, and also at all times. It is important to encourage the community to reflect on the importance of these matters in order to deepen the awareness that simply reducing it to numbers (e.g. striving to include as many women as men) is worthless if not accompanied by the acknowledgment of the importance of each individual's contribution. It is also important to promote actions that strive to create equal opportunities to all participants by compensating unforeseen biases.
 
