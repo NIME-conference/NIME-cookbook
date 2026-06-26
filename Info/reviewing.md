@@ -10,7 +10,7 @@ The proceedings website states:
 
 So all papers that are to appear in the proceedings must be peer-reviewed with reviews recorded in a conference management system and must also be presented at the conference in some form.
 
-Conversely, any submission (presentation, poster, or demo) that has been reviewed, accepted, and presented at NIME should appear in the proceedings.
+Conversely, any submission (paper or music) that has been reviewed, accepted, and presented at NIME should appear in the proceedings.
 
 The calls for all tracks should clearly state whether and how submissions will appear in the proceedings. E.g.,
 
