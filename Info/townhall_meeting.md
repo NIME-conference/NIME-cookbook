@@ -4,22 +4,18 @@ The NIME Town Hall meeting is held after the last paper session of the conferenc
 
 The meeting serves several purposes:
 
-* General information from the steering committee
-* Thank you to the organizers and staff
-* Open evaluation and discussion
-* Introduction of next year's organizer
+- General information from the NIME Board.
+- Thank you to the organizers and staff
+- Open evaluation and discussion
+- Introduction of next year's organizer
 
-The meeting typically lasts for an hour and is led by the chair of the Steering Committee
-
+The meeting typically lasts for an hour and is led by the chair of the NIME Board.
 
 ## Evaluation
 
 To help write up the evaluation report, it may be useful to ask the participants to fill out a written evaluation form in addition to an oral evaluation.
 
-
-
-
-The following questions were uesd in the evaluation form from NIME 2011.
+The following questions were used in the evaluation form from NIME 2011.
 
 ### 1. General questions
 
@@ -43,13 +39,12 @@ The following questions were uesd in the evaluation form from NIME 2011.
 
 6. Where do you currently publish your work? Which conferences and journals?
 
-7. Would you be interested in publishing in a NIME journal? The steering committee has been talking about the need for a journal for NIME and related topics. Is this something you would be interested in?
-
+7. Would you be interested in publishing in a NIME journal? The NIME Board. has been talking about the need for a journal for NIME and related topics. Is this something you would be interested in?
 
 ## Awards
 
-Awards have always been a difficult question at NIME. On one side, the SC wants the conference to be an inclusive event, in which the main aim is to share and discuss. Then awards may be seen as an unwanted, competitive element. On the other side, there is also an understanding that many other conferences and fields have awards. Thus having awards may help to inspire some and promote the careers of participants.
+Awards have always been a difficult question at NIME. On one side, the Board wants the conference to be an inclusive event, in which the main aim is to share and discuss. Then awards may be seen as an unwanted, competitive element. On the other side, there is also an understanding that many other conferences and fields have awards. Thus having awards may help to inspire some and promote the careers of participants.
 
-The SC does not have a policy on awards for papers, posters, etc, and let the local chairs decide on if and how they want to create awards.
+The Board does not have a policy on awards for papers, posters, etc, and let the local chairs decide on if and how they want to create awards.
 
-The only award that the SC actively promotes, is the [Pamela Z Award for Innovation](https://nime.gitbook.io/conference-cookbok/officers/winime#pamela-z-award-for-innovation).
+The only award that the NIME Board actively promotes, is the [Pamela Z Award for Innovation](https://nime.gitbook.io/conference-cookbok/officers/winime#pamela-z-award-for-innovation).
