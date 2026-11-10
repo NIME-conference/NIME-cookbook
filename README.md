@@ -1,6 +1,6 @@
 # NIME Conference Cookbook
 
-This online book is a semi-public working document for the organization of the [NIME conference](http://www.nime.org) series. It contains guides on how to run the conference, the various tracks and officer roles. The source code can be found and edited in this GitHub Repository: <https://github.com/NIME-conference/NIME-cookbook/>
+[This online book](https://nime-conference.github.io/NIME-cookbook/) is a semi-public working document for the organization of the [NIME conference](http://www.nime.org) series. It contains guides on how to run the conference, the various tracks and officer roles. The source code can be found and edited in this GitHub Repository: <https://github.com/NIME-conference/NIME-cookbook/>
 
 ## Contributing
 To contribute to the NIME cookbook, please fork this repo and create a pull request. If you are not familiar with GitHub, send your proposed modifications by email to the NIME Board members-at-large ([contact details here](https://nime.org/board/)).
