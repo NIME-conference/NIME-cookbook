@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "cp README.md site/index.md && markdown-folder-to-html site && rm site/index.md && open _site/index.html"
+  },
+  "devDependencies": {
+    "markdown-folder-to-html": "^2.4.0"
+  }
+}

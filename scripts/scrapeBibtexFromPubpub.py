@@ -11,7 +11,7 @@ from tqdm import tqdm
 from selenium import webdriver
 from selenium.webdriver.chrome.webdriver import WebDriver
 
-from paperDatabaseInterface import getAllPapers
+from src.Chairs.attachments.paperDatabaseInterface import getAllPapers
 
 def main():
     driver = webdriver.Chrome('chromedriver')

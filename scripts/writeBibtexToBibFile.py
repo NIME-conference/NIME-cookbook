@@ -13,7 +13,7 @@ ARTICLE_NUMBER_STARTS_FROM = 1    # 0 | 1
 import pickle
 from typing import Dict
 
-from paperDatabaseInterface import Paper, getAllPapers
+from src.Chairs.attachments.paperDatabaseInterface import Paper, getAllPapers
 
 def main():
     filename = 'bibtex_dict.pickle'
